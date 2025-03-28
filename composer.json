@@ -10,6 +10,7 @@
         "barryvdh/laravel-dompdf": "^3.1",
         "laravel/framework": "^11.31",
         "laravel/tinker": "^2.9",
+        "paydunya/paydunya": "^1.0",
         "twilio/sdk": "^8.3",
         "unicodeveloper/laravel-paystack": "^1.2",
         "vlucas/phpdotenv": "^5.6"
